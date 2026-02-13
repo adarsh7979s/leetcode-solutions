@@ -6,12 +6,14 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0881-boats-to-save-people](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -20,6 +22,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
