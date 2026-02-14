@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
