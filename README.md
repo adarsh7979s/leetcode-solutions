@@ -14,12 +14,14 @@
 | [0238-product-of-array-except-self](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0881-boats-to-save-people](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0881-boats-to-save-people](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
