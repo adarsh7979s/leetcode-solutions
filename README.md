@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
@@ -18,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0881-boats-to-save-people](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -29,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
