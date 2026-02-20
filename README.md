@@ -23,6 +23,7 @@
 | [0015-3sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0881-boats-to-save-people](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -73,4 +75,5 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
