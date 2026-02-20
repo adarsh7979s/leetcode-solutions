@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0881-boats-to-save-people](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -76,4 +77,13 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
