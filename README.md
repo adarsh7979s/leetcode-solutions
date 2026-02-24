@@ -79,6 +79,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
