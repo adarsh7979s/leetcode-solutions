@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0162-find-peak-element) |
 ## Linked List
 |  |
 | ------- |
