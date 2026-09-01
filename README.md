@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -94,4 +97,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
