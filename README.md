@@ -98,6 +98,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Heap (Priority Queue)
 |  |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
