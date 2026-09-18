@@ -134,4 +134,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
