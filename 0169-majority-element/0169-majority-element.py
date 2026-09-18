@@ -4,6 +4,19 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        # for  num in nums:
+        #    if nums.count(num) > len(nums)/2:
+        #        return num
+
+        # return 0
+
+        # for i in range (len(nums)):
+        #     if nums.count(nums[i]) > len(nums)/2:
+        #         return nums[i]
+
+        # return 0
+
+
         s = {}
         for i in range (len(nums)):
             if nums[i] not in s:
