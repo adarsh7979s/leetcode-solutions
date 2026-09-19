@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
