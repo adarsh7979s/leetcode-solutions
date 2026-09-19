@@ -17,14 +17,29 @@ class Solution(object):
         # return 0
 
 
-        s = {}
-        for i in range (len(nums)):
-            if nums[i] not in s:
-                s[nums[i]] = 1
+        # s = {}
+        # for i in range (len(nums)):
+        #     if nums[i] not in s:
+        #         s[nums[i]] = 1
 
-            else:
-                s[nums[i]] +=1
+        #     else:
+        #         s[nums[i]] +=1
 
             
-        sorted_s = sorted(s, key=s.get, reverse=True)
-        return sorted_s[0]
+        # sorted_s = sorted(s, key=s.get, reverse=True)
+        # return sorted_s[0]
+
+        andidate = None
+        count = 0
+
+        for num in nums:
+
+            if count == 0:
+                candidate = num
+
+            if num == candidate:
+                count += 1
+            else:
+                count -= 1
+
+        return candidate
