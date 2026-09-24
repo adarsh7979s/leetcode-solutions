@@ -59,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0344-reverse-string) |
