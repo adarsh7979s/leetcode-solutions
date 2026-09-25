@@ -10,7 +10,6 @@ class Solution(object):
 
             x = -1* x
             s=str(x)
-            new_rev=""
             rev = s[::-1]
             res = -1 * int(rev)
             
@@ -18,7 +17,7 @@ class Solution(object):
         else:
             
             s=str(x)
-            new_rev=""
+           
             rev = s[::-1]
 
             res = int(rev)
