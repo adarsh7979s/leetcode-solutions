@@ -7,7 +7,6 @@ class Solution(object):
         
         
         if x<0:
-
             x = -1* x
             s=str(x)
             rev = s[::-1]
@@ -17,9 +16,7 @@ class Solution(object):
         else:
             
             s=str(x)
-           
             rev = s[::-1]
-
             res = int(rev)
         
         if res > 2**31 - 1 or res < -2**31:
