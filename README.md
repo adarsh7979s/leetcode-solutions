@@ -77,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0189-rotate-array) |
