@@ -6,22 +6,23 @@ class Solution(object):
         """
         left = 0
         right = len(height)-1
-        maximum = 0
-        minimum = 0
-        for i in range (len(height)):
+        mini = 0
+        maxx = 0
+        for i in range(len(height)):
+            mini = min(height[left],height[right])
+            width=right - left
+            area = mini* width
 
-            minimum = min(height[left], height[right])
-            width = right - left
-            area = minimum * width
-
-            maximum = max(maximum, area)
+            maxx = max(maxx,area)
 
             if height[left] < height[right]:
-                left+=1
+                left +=1
 
             else:
-                right-=1
+                right -=1
 
-        return maximum
+        return maxx
+
+
 
         
