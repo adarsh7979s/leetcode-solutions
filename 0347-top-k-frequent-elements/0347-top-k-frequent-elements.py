@@ -5,17 +5,15 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        freq={}
-        
-        for num in nums:
+        seen ={}
 
-            if num not in freq:
-                freq[num]=1
+        for i in range (len(nums)):
+            if nums[i] not in seen:
+                seen[nums[i]] = 1
 
             else:
-                freq[num] +=1
+                seen[nums[i]] +=1
 
-        sorted_nums = sorted(freq, key = freq.get, reverse= True)
+        sort = sorted(seen, key= seen.get, reverse = True)
 
-        return sorted_nums[:k]
-            
+        return sort[:k]
