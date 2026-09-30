@@ -9,20 +9,16 @@ class Solution(object):
         mini = 0
         maxx = 0
         for i in range(len(height)):
-            mini = min(height[left],height[right])
-            width=right - left
-            area = mini* width
-
-            maxx = max(maxx,area)
+            mini = min(height[left], height[right])
+            width = right - left
+            area = mini * width
 
             if height[left] < height[right]:
                 left +=1
 
             else:
-                right -=1
+                right-=1
+
+            maxx = max(maxx, area)
 
         return maxx
-
-
-
-        
