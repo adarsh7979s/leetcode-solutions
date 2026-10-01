@@ -84,6 +84,7 @@
 | [0009-palindrome-number](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
