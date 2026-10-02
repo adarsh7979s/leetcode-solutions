@@ -66,6 +66,7 @@
 | [0013-roman-to-integer](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -113,6 +114,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -174,6 +176,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
@@ -211,4 +214,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0231-power-of-two) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
