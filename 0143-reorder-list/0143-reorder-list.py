@@ -13,20 +13,22 @@ class Solution(object):
         fast = head
 
         while fast is not None and fast.next is not None:
-            slow = slow.next 
+            slow = slow.next
             fast = fast.next.next
 
         current = slow.next
         slow.next = None
         prev = None
+
         while current is not None:
             nextnode = current.next
             current.next = prev
             prev = current
             current = nextnode
-            
+
         second = prev
         first = head
+
         while second is not None:
             next1 = first.next
             next2 = second.next
@@ -36,5 +38,3 @@ class Solution(object):
 
             first = next1
             second = next2
-
-        
