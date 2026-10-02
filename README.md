@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0143-reorder-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0020-valid-parentheses](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0344-reverse-string) |
+| [2390-removing-stars-from-a-string](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
