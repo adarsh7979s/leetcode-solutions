@@ -4,29 +4,33 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        # maxdiff = 0
-        # diff= 0
+        # maxp= 0
+        # p = 0
+
         # for i in range(len(prices)):
+        #     p = 0
         #     for j in range(i+1,len(prices)):
-        #         diff= prices[j]-prices[i]
-        #         if diff>maxdiff:
-        #             maxdiff=diff
+        #         p = prices[j]-prices[i]
 
-        #         if maxdiff<0:
-        #             return 0
-        # return maxdiff   
+        #         if maxp < p:
+        #             maxp = p
 
+        # if maxp <= 0:
+        #     return 0
 
+        # return maxp
+        minp = prices[0] 
+        maxp = 0
+        profit = 0
+        for price in prices:
+            if price < minp:
+                minp = price
 
-
-        minprice = prices[0]
-        maxprofit = 0
-        for i in range(1,len(prices)):
-            if minprice > prices[i]:
-                minprice = prices[i]
             else:
-                profit =prices[i] - minprice
-                maxprofit = max(maxprofit , profit)
+                profit = price - minp
+                maxp = max(maxp, profit)
 
-
-        return maxprofit
+        if maxp <= 0:
+            return 0
+            
+        return maxp
