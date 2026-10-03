@@ -22,6 +22,7 @@
 | [0238-product-of-array-except-self](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarsh7979s/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -107,6 +108,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0704-binary-search) |
 ## Linked List
 |  |
 | ------- |
