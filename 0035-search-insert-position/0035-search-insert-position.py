@@ -9,7 +9,7 @@ class Solution(object):
         left = 0
         right = len(nums)-1
 
-        for i in range(len(nums)):
+        while left <= right:
             mid = (left + right)//2
 
             if nums[mid] == target:
