@@ -20,10 +20,13 @@ class Solution(object):
         while curr1 is not None or curr2 is not None:
             if curr1 is not None:
                 val1 = curr1.val
+                curr1 = curr1.next
             else:
                 val1 = 0
             if curr2 is not None:
                 val2 = curr2.val
+                curr2 = curr2.next
+
             else:
                 val2 = 0
 
@@ -36,10 +39,10 @@ class Solution(object):
             current.next = ListNode(digit)
             current = current.next
 
-            if curr1 is not None:
-                curr1 = curr1.next
-            if curr2 is not None:
-                curr2 = curr2.next
+            # if curr1 is not None:
+            #     curr1 = curr1.next
+            # if curr2 is not None:
+            #     curr2 = curr2.next
 
         if carry != 0:
             current.next = ListNode(carry)
