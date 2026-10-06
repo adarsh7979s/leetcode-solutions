@@ -31,16 +31,16 @@ class Solution(object):
         right = len(height)-1
         leftmax = height[left] 
         rightmax = height[right]
-        res = 0
+        water = 0
         while left < right:
             if leftmax < rightmax:
                 left +=1
                 leftmax = max(leftmax, height[left])
-                res += leftmax - height[left]
+                water += leftmax - height[left]
             else:
                 right -=1
                 rightmax = max(rightmax, height[right])
-                res += rightmax - height[right]
+                water += rightmax - height[right]
 
-        return res
+        return water
             
