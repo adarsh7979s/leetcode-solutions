@@ -1,23 +1,22 @@
 class Solution(object):
-    def maxArea(self, height):
+    def maxArea(self, h):
         """
         :type height: List[int]
         :rtype: int
         """
         left = 0
-        right = len(height)-1
+        right = len(h) - 1
         mini = 0
         maxx = 0
-        for i in range(len(height)):
-            mini = min(height[left], height[right])
+        
+        for i in range (len(h)):
+            mini = min(h[left], h[right])
             width = right - left
             area = mini * width
-
-            if height[left] < height[right]:
+            if h[left] < h[right]:
                 left +=1
-
             else:
-                right-=1
+                right -=1
 
             maxx = max(maxx, area)
 
