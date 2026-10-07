@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh7979s/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Floyd's Cycle Finding Algorithm
 |  |
