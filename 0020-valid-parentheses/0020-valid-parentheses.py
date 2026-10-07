@@ -26,4 +26,4 @@ class Solution(object):
                 if i == "]" and top != "[":
                     return False
 
-            return len(stack)== 0
+        return len(stack)== 0
