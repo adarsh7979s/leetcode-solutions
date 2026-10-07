@@ -6,8 +6,7 @@ class Solution(object):
         """
         left = 0
         right = len(nums)-1
-        mini = nums[0]
-        leftmin = -1
+    
         while left < right:
             mid = (left+right)//2
 
