@@ -4,26 +4,26 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        
         stack = []
-        for char in s:
-            if char == '(' or char == '{' or char == '[':
-                stack.append(char)
+        
+        for i in s:
+            # k = stack.pop()
+            if i== "(" or i =="{" or i =="[":
+                stack.append(i)
 
             else:
                 if len(stack) == 0:
                     return False
-                
+
                 top = stack.pop()
 
-                if char == ')' and top !='(':
+                if i == ")" and top != "(":
                     return False
 
-                if char == '}' and top !='{':
+                if i == "}" and top != "{":
                     return False
 
-                if char == ']' and top !='[':
+                if i == "]" and top != "[":
                     return False
 
-
-        return len(stack)==0
+            return len(stack)== 0
