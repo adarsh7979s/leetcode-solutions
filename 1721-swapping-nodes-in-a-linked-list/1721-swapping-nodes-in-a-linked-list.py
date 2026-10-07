@@ -28,9 +28,12 @@ class Solution(object):
         for i in range(index):
             second = second.next
         
-        temp = first.val
-        first.val = second.val
-        second.val = temp
+        # temp = first.val       # in c you can do this 
+        # first.val = second.val
+        # second.val = temp
 
+        # Pyhton lets you swap directly (Tuple Unpacking)
+        first.val, second.val = second.val, first.val
+        
         return head
             
