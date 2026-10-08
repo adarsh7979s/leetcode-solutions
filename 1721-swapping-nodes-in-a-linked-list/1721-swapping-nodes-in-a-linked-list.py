@@ -15,8 +15,9 @@ class Solution(object):
         current = head 
 
         while current is not None:
-            current = current.next
             length +=1
+            current = current.next
+            
 
         index = length - k
 
