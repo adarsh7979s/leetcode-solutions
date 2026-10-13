@@ -9,8 +9,7 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: bool
         """
-        dummy = ListNode(0)
-        current = dummy
+        
 
         slow = head
         fast = head
