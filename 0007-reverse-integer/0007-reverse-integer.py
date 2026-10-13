@@ -23,8 +23,7 @@ class Solution(object):
             s = "".join(s)
             res = int(s)
             
-
-        if -2**31 <= res <= 2**31 - 1:
+        if res > 2**31 - 1 or res < -2**31:
             return 0
 
         return res
