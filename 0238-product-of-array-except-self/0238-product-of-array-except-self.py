@@ -4,8 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        res = [0] * len(nums)
+        
         prefix = 1
+        res = [0]*len(nums)
+
         for i in range(len(nums)):
             res[i] = prefix
             prefix *= nums[i]
@@ -13,6 +15,6 @@ class Solution(object):
         postfix = 1
         for i in range(len(nums)-1, -1, -1):
             res[i] *= postfix
-            postfix *=nums[i]
+            postfix *= nums[i]
 
         return res
