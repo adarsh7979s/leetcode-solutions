@@ -5,17 +5,19 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
-        row = 0 
-        col = len(matrix[0]) -1
+        row = 0
+        col = len(matrix[0])-1
 
-        while row < len(matrix) and col >=0:
-            if matrix[row][col] == target:
+        
+
+        while row < len(matrix) and col >=0 :
+            if target == matrix[row][col]:
                 return True
 
-            elif matrix[row][col] > target:
-                col -=1
+            elif target < matrix[row][col]:
+                col-=1
 
             else:
                 row +=1
-
         return False
+        
