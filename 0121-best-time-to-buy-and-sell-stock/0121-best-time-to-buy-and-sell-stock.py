@@ -14,7 +14,7 @@ class Solution(object):
             p = i - cmin
             maxp = max(maxp , p)
 
-        if maxp == 0:
+        if maxp <= 0:
             return 0
 
            
