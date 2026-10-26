@@ -5,15 +5,14 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        seen ={}
-
-        for i in range (len(nums)):
+        
+        seen = {}
+        for i in range(len(nums)):
             if nums[i] not in seen:
                 seen[nums[i]] = 1
 
             else:
                 seen[nums[i]] +=1
 
-        sort = sorted(seen, key= seen.get, reverse = True)
-
+        sort = sorted(seen, key = seen.get, reverse = True )
         return sort[:k]
