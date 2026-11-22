@@ -12,4 +12,4 @@ class Solution(object):
                 seen[nums[i]] = i
 
             else:
-                return (seen[needed], i)
+                return [seen[needed], i]
