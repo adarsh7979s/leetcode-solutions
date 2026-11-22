@@ -9,18 +9,19 @@ class Solution(object):
         leftmax = h[left]
         rightmax = h[right]
         water = 0
+
         if not h:
             return 0
-        
-        while left< right:
+
+        while left < right:
             if leftmax < rightmax:
                 left +=1
                 leftmax = max(leftmax, h[left])
-                water +=  leftmax-h[left]
+                water += leftmax - h[left]
 
             else:
                 right -=1
                 rightmax = max(rightmax, h[right])
-                water += rightmax -h[right] 
+                water += rightmax - h[right]
 
         return water
